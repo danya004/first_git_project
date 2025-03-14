@@ -1,1 +1,2 @@
-This is a third file
+This is a third file.
+"Updating" project from GIT does fetch and pull together. Faster BUT it doesn't let you choose the branch.
